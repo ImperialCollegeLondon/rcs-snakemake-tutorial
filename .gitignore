@@ -1,0 +1,8 @@
+/.snakemake/
+/calls/
+/data/
+/mapped_reads/
+/plots/
+/snakemake-tutorial.pbs.sh.e*
+/snakemake-tutorial.pbs.sh.o*
+/sorted_reads/

@@ -1,0 +1,12 @@
+name: snakemake-tutorial
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - snakemake-minimal
+  - bcftools=1.9
+  - bwa=0.7.17
+  - matplotlib=3.1
+  - pysam=0.15
+  - python=3.7
+  - samtools=1.9
